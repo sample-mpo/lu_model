@@ -1,0 +1,8 @@
+data_zip_url: https://dl.dropboxusercontent.com/u/69619688/natdata/oahu_model_data.zip
+
+orca_registry_modules:
+  - datasources
+  - variables
+  - models
+
+

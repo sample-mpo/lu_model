@@ -1,0 +1,8 @@
+template: minimal
+
+step_sequence:
+    - relocation_model
+    - transition_model
+    - location_choice_model
+    - real_estate_price_model
+    - real_estate_supply_model
